@@ -1,0 +1,136 @@
+us-logger  | 2026-04-24 14:36:23,166 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:23,166 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:23,169 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:23,169 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:23,169 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,129 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:24,132 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:24,133 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:24,133 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 6. Remaining data: 15790B00D353
+dbus-logger  | 2026-04-24 14:36:24,133 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,133 - app.core.uart - WARNING - Incomplete frame in transaction: expected 15, have 4. Remaining data: 0B00D353
+dbus-logger  | 2026-04-24 14:36:24,134 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,134 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,134 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,161 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:24,164 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:24,164 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:24,165 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 13. Remaining data: 15790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:24,165 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,165 - app.core.uart - WARNING - Incomplete frame in transaction: expected 15, have 11. Remaining data: 0B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:24,165 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,166 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,166 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:24,168 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:25,162 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:25,164 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:25,165 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:25,167 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:25,167 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:25,168 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:26,160 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:26,163 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:26,163 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:26,166 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:26,166 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:26,166 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:27,158 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:27,161 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:27,161 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:27,164 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:27,164 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:27,165 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:28,112 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:28,115 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:28,155 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:28,157 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:28,157 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:28,158 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 20. Remaining data: 15790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:28,158 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:28,160 - app.core.uart - ERROR - CRC FAIL for frame: 0B00D3530315790B00D3530315790B. Skipping 15 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:28,161 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:28,161 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:28,161 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:29,152 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:29,155 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:29,156 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:29,159 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:29,159 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:29,159 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,119 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:30,121 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:30,122 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:30,122 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 6. Remaining data: 15790B00D353
+dbus-logger  | 2026-04-24 14:36:30,122 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,123 - app.core.uart - WARNING - Incomplete frame in transaction: expected 15, have 4. Remaining data: 0B00D353
+dbus-logger  | 2026-04-24 14:36:30,123 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,123 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,123 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,151 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:30,154 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:30,154 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:30,155 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 13. Remaining data: 15790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:30,156 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,156 - app.core.uart - WARNING - Incomplete frame in transaction: expected 15, have 11. Remaining data: 0B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:30,157 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,158 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,158 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:30,161 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:31,151 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:31,153 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:31,154 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:31,156 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:31,156 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:31,157 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:32,149 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:32,151 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:32,152 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:32,154 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:32,155 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:32,155 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:33,148 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:33,151 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:33,151 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:33,154 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:33,154 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:33,155 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:34,101 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:34,104 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:34,144 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:34,147 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:34,148 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:34,148 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 20. Remaining data: 15790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:34,148 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:34,150 - app.core.uart - ERROR - CRC FAIL for frame: 0B00D3530315790B00D3530315790B. Skipping 15 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:34,151 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:34,151 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:34,151 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:35,142 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:35,145 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:35,145 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:35,148 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:35,148 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:35,148 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:36,141 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:36,144 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:36,144 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:36,146 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:36,147 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:36,147 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:37,096 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:37,099 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:37,140 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:37,143 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:37,143 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:37,143 - app.core.uart - WARNING - Incomplete frame in transaction: expected 25, have 20. Remaining data: 15790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:37,144 - app.core.uart - WARNING - Invalid LEN byte 0x79 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:37,146 - app.core.uart - ERROR - CRC FAIL for frame: 0B00D3530315790B00D3530315790B. Skipping 15 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:37,146 - app.core.uart - WARNING - Invalid LEN byte 0x00 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:37,147 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:37,147 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:38,139 - app.core.uart - INFO - IDLE detected -> TRANSACTION: 0315790B00D3530315790B00D3530315790B00D3530315790B00D3530315790B00D353
+dbus-logger  | 2026-04-24 14:36:38,142 - app.core.uart - INFO - Frame OK: 0315790B00D353
+dbus-logger  | 2026-04-24 14:36:38,142 - app.core.uart - INFO - ACK_BUSY detected
+dbus-logger  | 2026-04-24 14:36:38,145 - app.core.uart - ERROR - CRC FAIL for frame: 15790B00D3530315790B00D3530315790B00D3530315790B00. Skipping 25 bytes and continuing...
+dbus-logger  | 2026-04-24 14:36:38,145 - app.core.uart - WARNING - Invalid LEN byte 0xD3 in transaction, skipping
+dbus-logger  | 2026-04-24 14:36:38,145 - app.core.uart - WARNING - Invalid LEN byte 0x53 in transaction, skipping
