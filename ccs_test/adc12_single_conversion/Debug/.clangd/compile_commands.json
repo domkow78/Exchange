@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion/Debug",
+      "command"   : "clang++ -D__MSPM0C1104__ -D__USE_SYSCONFIG__ -I\"C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion\" -I\"C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion/Debug\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion/adc12_single_conversion.c"
+   },
+   {
+      "directory" : "C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion/Debug",
+      "command"   : "clang++ -D__MSPM0C1104__ -D__USE_SYSCONFIG__ -I\"C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion\" -I\"C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion/Debug\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Dominik/workspace_ccstheia/adc12_single_conversion/Debug/ti_msp_dl_config.c"
+   }
+]
