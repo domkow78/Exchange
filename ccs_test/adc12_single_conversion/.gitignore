@@ -1,0 +1,18 @@
+# Keep only source and hand-authored configuration in Git.
+
+# CCS / Eclipse project metadata that is usually regenerated locally.
+.project
+.cproject
+.ccsproject
+.settings/
+.clangd
+
+# Auto-generated target configuration files.
+targetConfigs/*.ccxml
+targetConfigs/readme.txt
+
+# Build output.
+Debug/
+
+# Generated documentation / summaries.
+README.html
